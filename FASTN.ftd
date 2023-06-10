@@ -6,6 +6,7 @@ favicon: /-/rishabhdhawad.github.io/rishabh-portfolio/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: rishabhdhawad.github.io/ui-packages
 
 -- fastn.auto-import: ds
 -- fastn.auto-import: rishabhdhawad.github.io/rishabh-portfolio/FASTN/my-ds

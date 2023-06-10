@@ -27,6 +27,5 @@ Create your first page. [Click here to know more](https://fastn-community.github
 
 
 ## 👀 Want to learn more?
-
-Feel free to check our [expander course](https://fastn.com/expander/) or jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+=Feel free to check our [expander course](https://fastn.com/expander/) or jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
 
