@@ -14,19 +14,19 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /rishabh-portfolio
+logoURL: /fastn-deployment
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Tweets
 header-item5: Experience
 header-item6: Contact
-header-item1-link: /rishabh-portfolio
-header-item2-link: /rishabh-portfolio/about
-header-item3-link: /rishabh-portfolio/blogs
-header-item4-link: /rishabh-portfolio/tweets
-header-item5-link: /rishabh-portfolio/experience
-header-item6-link: /rishabh-portfolio/contact
+header-item1-link: /fastn-deployment
+header-item2-link: /fastn-deployment/about
+header-item3-link: /fastn-deployment/blogs
+header-item4-link: /fastn-deployment/tweets
+header-item5-link: /fastn-deployment/experience
+header-item6-link: /fastn-deployment/contact
 cta-item1: linkedin
 cta-item1-link: https://www.linkedin.com/in/rishabhdhawad/
 cta-item2: Twitter
